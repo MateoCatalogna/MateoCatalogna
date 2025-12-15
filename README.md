@@ -1,59 +1,74 @@
-# MateoPortfolio
+# ¡Hola! Soy Mateo Jeremias Catalogna 👋
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.7.
+### Desarrollador Full Stack Junior | Estudiante de Programación (UTN)
 
-## Development server
+Soy un desarrollador apasionado por la tecnología y la resolución de problemas, ubicado en **Quilmes, Buenos Aires**. Actualmente estoy finalizando la **Tecnicatura Universitaria en Programación** en la UTN (17 de 18 materias aprobadas) y buscando mi primera oportunidad profesional en el mundo IT.
 
-To start a local development server, run:
+Me especializo en el desarrollo web moderno, con bases sólidas en lógica de programación y algoritmos. Soy una persona proactiva, organizada y con gran capacidad de análisis.
 
-```bash
-ng serve
-```
+---
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+### 🛠️ Tech Stack
 
-## Code scaffolding
+**Lenguajes**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+**Frontend**
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
-```bash
-ng generate component component-name
-```
+**Backend & Bases de Datos**
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=flat&logo=postgresql&logoColor=white)
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+**Herramientas & Cloud**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat&logo=render&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
-```bash
-ng generate --help
-```
+---
 
-## Building
+### 🚀 Proyectos Destacados
 
-To build the project run:
+#### [🔗 SnapLink - Acortador de URLs Full Stack]([LINK AL REPO DE SNAPLINK])
+Aplicación web para acortar enlaces y generar códigos QR dinámicos con deploy en la nube.
+* **Stack:** Angular 17+ (Signals), NestJS, MongoDB (Mongoose), Tailwind CSS.
+* **Infraestructura:** Vercel (Front) & Render (Back).
+* **Highlights:** Seguridad (CORS, Rate Limiting), autenticación y diseño responsivo.
 
-```bash
-ng build
-```
+#### [📱 MJC - Red Social Full Stack]([LINK AL REPO DE RED SOCIAL])
+Aplicación web que simula las funcionalidades principales de una red social simple.
+* **Stack:** Angular 17+, NestJS, MongoDB.
+* **Funcionalidades:** Gestión de usuarios, publicaciones e interacción en tiempo real.
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+---
 
-## Running unit tests
+### 🎓 Educación
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
+**Tecnicatura Universitaria en Programación** | UTN (2023 - Actualidad)
+* Avance: 17 de 18 materias aprobadas.
 
-```bash
-ng test
-```
+**Certificaciones**
+* Curso de Data Engineering (Oct 2023).
 
-## Running end-to-end tests
+---
 
-For end-to-end (e2e) testing, run:
+### 📫 Conectemos
 
-```bash
-ng e2e
-```
+Siempre estoy abierto a charlar sobre nuevas oportunidades, colaboraciones o simplemente compartir conocimientos sobre código.
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+* 💼 **LinkedIn:** [[TU LINK DE LINKEDIN](https://www.linkedin.com/in/mateo-catalogna-1b406b269/?trk=opento_sprofile_topcard)]
+* 📧 **Email:** catalognamateo@gmail.com
+* 🐙 **GitHub:** [github.com/MateoCatalogna](https://github.com/MateoCatalogna)
 
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+---
+⭐️ *Gracias por visitar mi perfil.*
